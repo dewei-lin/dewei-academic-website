@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <!-- TODO: add your affiliation, e.g. "PhD Student, Department of X, George Washington University" -->
+subtitle: # TODO replace with your affiliation, e.g. PhD Student, Dept. of X, George Washington University
 
 profile:
   align: right
