@@ -3,11 +3,11 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 # Active socials (must have a value — empty entries crash the build)
 email: lindewei@gwu.edu # your email address
-github: dewei-lin # your GitHub username
+github_username: dewei-lin # your GitHub username (NOTE: key is github_username, not github)
 rss_icon: true # comment this line to hide the RSS icon
 
 # To add later, just uncomment and fill in the value:
-# linkedin: your-linkedin-vanity-name      # the part after /in/ in your LinkedIn URL
-# scholar_userid: ABC123XYZ                # the string after user= in your Google Scholar URL
-# cv_pdf: /assets/pdf/cv.pdf               # path to your CV PDF
-# inspirehep_id: 1010907                   # Inspire HEP author ID
+# linkedin_username: your-linkedin-vanity-name  # the part after /in/ in your LinkedIn URL
+# scholar_userid: ABC123XYZ                     # the string after user= in your Google Scholar URL
+# cv_pdf: /assets/pdf/cv.pdf                    # path to your CV PDF
+# inspirehep_id: 1010907                        # Inspire HEP author ID
