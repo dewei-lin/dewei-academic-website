@@ -1,9 +1,13 @@
 # this file contains the social media links and usernames of the author
 # the socials will be displayed in the order they are defined here
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
-# cv_pdf: /assets/pdf/cv.pdf # uncomment and add your CV PDF when ready
+# Active socials (must have a value — empty entries crash the build)
 email: lindewei@gwu.edu # your email address
 github: dewei-lin # your GitHub username
-linkedin: # TODO: add your LinkedIn vanity name (the part after /in/ in your profile URL, e.g., "dewei-lin")
-scholar_userid: # TODO: add your Google Scholar ID (the string after user= in your Scholar profile URL)
 rss_icon: true # comment this line to hide the RSS icon
+
+# To add later, just uncomment and fill in the value:
+# linkedin: your-linkedin-vanity-name      # the part after /in/ in your LinkedIn URL
+# scholar_userid: ABC123XYZ                # the string after user= in your Google Scholar URL
+# cv_pdf: /assets/pdf/cv.pdf               # path to your CV PDF
+# inspirehep_id: 1010907                   # Inspire HEP author ID
