@@ -486,13 +486,6 @@ ninja.data = [{
           window.open("https://scholar.google.com/citations?user=jgPiJ0gAAAAJ", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/dewei-academic-website/feed.xml", "_blank");
-        },
-      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
