@@ -8,27 +8,39 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>Department of Statistics</p>
-    <p>George Washington University</p>
-    <p>Washington, DC</p>
+  more_info: # social icons appear directly below the photo (no address block)
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true # social icons (now rendered under the photo via the about layout)
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
 ---
 
 ## Biography
 
-I am an incoming Statistics PhD student at the [George Washington University](https://www.gwu.edu/). I work with [Dr. Feifang Hu](https://statistics.columbian.gwu.edu/feifang-hu) in the Department of Statistics.
+I am an incoming Statistics PhD student at the [George Washington University](https://www.gwu.edu/). I work with [Dr. Feifang Hu](https://statistics.columbian.gwu.edu/feifang-hu) in the [Department of Statistics](https://statistics.columbian.gwu.edu/).
 
-I completed my Master's degree in Biostatistics at the University of North Carolina at Chapel Hill, where I worked under the supervision of [Dr. Tanya P. Garcia](https://sph.unc.edu/adv_profile/tanya-garcia/) and Dr. Baiming Zou. My Master's thesis developed an enhanced deep-learning-based Mendelian randomization framework for adjusting unmeasured confounders and complex confounding structures simultaneously. At the [MIND Lab](https://tpgarcia.github.io/about/), I researched [Huntington's disease](https://www.mayoclinic.org/diseases-conditions/huntingtons-disease/symptoms-causes/syc-20356117), focusing on clinical trial design and identifiability problems in right-censored covariate settings.
+I completed my Master's degree in Biostatistics at the University of North Carolina at Chapel Hill, where I worked under the supervision of [Dr. Tanya P. Garcia](https://sph.unc.edu/adv_profile/tanya-garcia/) and [Dr. Baiming Zou](https://sph.unc.edu/adv_profile/baiming-zou-phd/). My Master's thesis developed an enhanced deep-learning-based Mendelian randomization framework for adjusting unmeasured confounders and complex confounding structures simultaneously. At the [MIND Lab](https://tpgarcia.github.io/about/), I researched [Huntington's disease](https://www.mayoclinic.org/diseases-conditions/huntingtons-disease/symptoms-causes/syc-20356117), focusing on clinical trial design and identifiability problems in right-censored covariate settings.
+
+## Research Interests
+
+<!-- TODO: replace with a sentence or two describing your research interests, e.g.
+causal inference, Mendelian randomization, deep learning for biostatistics, adaptive
+clinical trial design, identifiability under censoring, etc. -->
+
+## Education
+
+**Ph.D. in Statistics** *(2026 – present)*<br>
+George Washington University
+
+**M.S. in Biostatistics** *(2024 – 2026)*<br>
+University of North Carolina at Chapel Hill<br>
+Thesis: *An Enhanced Deep Mendelian Randomization for Adjusting Complex Confounding Structures*
+
+**Honours Bachelor of Science with High Distinction** *(2020 – 2024)*<br>
+Double Major in Statistics and Economics<br>
+University of Toronto
