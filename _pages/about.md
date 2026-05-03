@@ -2,13 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: # TODO replace with your affiliation, e.g. PhD Student, Dept. of X, George Washington University
+subtitle: Incoming Statistics PhD Student, <a href="https://statistics.columbian.gwu.edu/">George Washington University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Department of Statistics</p>
     <p>George Washington University</p>
     <p>Washington, DC</p>
 
@@ -26,17 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<!-- TODO: replace this paragraph with your bio.
+## Biography
 
-A few sentences about who you are: your role/title, your research interests, the
-problems you find exciting, and anything personal you'd like visitors to know.
-You can use **bold**, *italic*, and [links](https://example.com) freely. -->
+I am an incoming Statistics PhD student at the [George Washington University](https://www.gwu.edu/). I work with [Dr. Feifang Hu](https://statistics.columbian.gwu.edu/feifang-hu) in the Department of Statistics.
 
-Hi! I'm Dewei Lin. Welcome to my academic website.
-
-To customize this page:
-
-- Replace `assets/img/prof_pic.jpg` with your own profile photo (keep the filename the same).
-- Update the `subtitle:` and `more_info:` fields above with your affiliation and address.
-- Edit `_bibliography/papers.bib` to add publications (they'll auto-render on the [publications page]({{ '/publications/' | relative_url }})).
-- Add news items as one-line files in `_news/`.
+I completed my Master's degree in Biostatistics at the University of North Carolina at Chapel Hill, where I worked under the supervision of [Dr. Tanya P. Garcia](https://sph.unc.edu/adv_profile/tanya-garcia/) and Dr. Baiming Zou. My Master's thesis developed an enhanced deep-learning-based Mendelian randomization framework for adjusting unmeasured confounders and complex confounding structures simultaneously. At the [MIND Lab](https://tpgarcia.github.io/about/), I researched [Huntington's disease](https://www.mayoclinic.org/diseases-conditions/huntingtons-disease/symptoms-causes/syc-20356117), focusing on clinical trial design and identifiability problems in right-censored covariate settings.
