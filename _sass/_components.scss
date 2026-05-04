@@ -217,28 +217,43 @@ ul.task-list input[type="checkbox"] {
 
 // Compact social icons under the profile photo (about page)
 .profile .social .contact-icons {
-  font-size: 1.6rem;
+  display: flex !important;
+  flex-wrap: nowrap !important;
+  justify-content: space-evenly !important;
+  align-items: center !important;
+  font-size: 1.5rem !important;
+  line-height: 1 !important;
   white-space: nowrap;
-  line-height: 1;
+  width: 100%;
+  margin: 0 auto;
 
   a {
-    margin: 0 0.25rem;
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin: 0 !important;
+    padding: 0 !important;
 
     img {
-      width: 1.4rem;
-      height: 1.4rem;
-      margin-bottom: 0;
+      width: 1.4rem !important;
+      height: 1.4rem !important;
+      margin: 0 !important;
     }
 
     svg {
-      width: 1.4rem;
-      height: 1.6rem;
-      margin-bottom: 0;
+      width: 1.4rem !important;
+      height: 1.4rem !important;
+      margin: 0 !important;
 
       image {
-        width: 1.4rem;
-        height: 1.4rem;
+        width: 1.4rem !important;
+        height: 1.4rem !important;
       }
+    }
+
+    i {
+      font-size: 1.5rem !important;
+      line-height: 1 !important;
     }
   }
 }
