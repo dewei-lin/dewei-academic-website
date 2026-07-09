@@ -22,7 +22,7 @@ latest_posts:
 
 ## Biography
 
-I am an incoming Statistics PhD student at the [George Washington University](https://www.gwu.edu/). I work with [Dr. Feifang Hu](https://statistics.columbian.gwu.edu/feifang-hu) in the [Department of Statistics](https://statistics.columbian.gwu.edu/).
+I am an incoming Statistics PhD student at the [George Washington University](https://www.gwu.edu/).
 
 I completed my Master's degree in Biostatistics at the [University of North Carolina at Chapel Hill](https://sph.unc.edu/bios/biostatistics/), where I worked under the supervision of [Dr. Tanya P. Garcia](https://sph.unc.edu/adv_profile/tanya-garcia/) and [Dr. Baiming Zou](https://sph.unc.edu/adv_profile/baiming-zou-phd/). My Master's thesis developed an enhanced deep-learning-based Mendelian randomization framework for adjusting unmeasured confounders and complex confounding structures simultaneously. At the [MIND Lab](https://tpgarcia.github.io/about/), I researched [Huntington's disease](https://www.mayoclinic.org/diseases-conditions/huntingtons-disease/symptoms-causes/syc-20356117), focusing on clinical trial design and identifiability problems in right-censored covariate settings.
 
