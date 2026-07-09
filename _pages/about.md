@@ -2,7 +2,6 @@
 layout: about
 title: about
 permalink: /
-subtitle: Incoming Statistics PhD Student, <a href="https://statistics.columbian.gwu.edu/">George Washington University</a>.
 
 profile:
   align: right

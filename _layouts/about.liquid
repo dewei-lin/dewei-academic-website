@@ -8,10 +8,12 @@ layout: default
         <span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}
         {{ site.last_name }}
       {% else %}
-        {{ site.title }}
+        <span class="site-name">{{ site.title }}</span>{% if site.chinese_name %} <span class="site-name-cn">{{ site.chinese_name }}</span>{% endif %}
       {% endif %}
     </h1>
-    <p class="desc">{{ page.subtitle }}</p>
+    {% if page.subtitle %}
+      <p class="desc">{{ page.subtitle }}</p>
+    {% endif %}
   </header>
 
   <article>
