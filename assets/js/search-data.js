@@ -30,9 +30,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/dewei-academic-website/publications/";
           },
-        },{id: "post-distill-agent-teaching-ai-to-clean-data-like-a-statistician",
+        },{id: "post-distill-agent-ai-assisted-data-cleaning",
         
-          title: "Distill Agent: teaching AI to clean data like a statistician",
+          title: "Distill Agent: AI-assisted data cleaning",
         
         description: "How and why I built Distill Agent, an AI data-cleaning agent that won an Honorable Mention at the STAI-X Challenge 2026.",
         section: "Posts",
