@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Distill Agent: teaching AI to clean data like a statistician"
+title: "Distill Agent: AI-assisted data cleaning"
 date: 2026-07-09
 description: How and why I built Distill Agent, an AI data-cleaning agent that won an Honorable Mention at the STAI-X Challenge 2026.
-tags: statistics ai data-cleaning
+tags: statistics ai
 categories: distill-agent
 ---
 
