@@ -40,7 +40,7 @@ With the help of Claude Code, Distill Agent runs as a no-code, chat-based web in
 
 The agent follows an Orchestrator&ndash;Worker pattern with human-in-the-loop checkpoints:
 
-{% include figure.liquid loading="eager" path="assets/img/blog/distill-agent/pipeline-diagram.svg" class="img-fluid rounded z-depth-1" alt="Distill Agent pipeline: Upload, Intake, Orchestrator, cleaning stages, human-in-the-loop checkpoints, output generation" %}
+{% include figure.liquid loading="eager" path="assets/img/blog/distill-agent/pipeline-diagram-v2.png" class="img-fluid rounded z-depth-1" zoomable=true alt="Distill Agent pipeline: Upload, Intake, Orchestrator, cleaning stages, human-in-the-loop checkpoints, output generation" %}
 
 And why the name Distill? Data is to data scientists what water is to life, and just as you can't survive on contaminated water, you can't build reliable models on dirty data. Distill Agent is built to be the distillation device for data. AI handles the mechanical, pattern-detection work autonomously, while the human analyst keeps full control over the judgment calls that require domain knowledge. And like a well-run water utility, nothing happens in the dark: every decision, automated or human, is logged, justified, and compiled into a reproducible set of outputs, including a standalone Python script that regenerates the cleaned data with no agent in the loop. Clean data you can drink, and a record of exactly how it was treated.
 
